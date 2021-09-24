@@ -3,8 +3,6 @@ CONFIG += console c++11
 CONFIG -= app_bundle
 
 SOURCES += \
-        main.cpp \
-        pruebas.cpp
+        main.cpp
 
-HEADERS += \
-    pruebas.h
+HEADERS +=
