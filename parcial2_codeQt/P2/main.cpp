@@ -7,7 +7,7 @@ using namespace std;
 int main()
 {
     //LECTURA DE IMAGEN
-    string filename="../P2/images/macedonia.jpg";
+    string filename="../P2/images/mexico.jpg";
     QImage im(filename.c_str());
 
     //IMPRIME TAMAÑO DE IMAGEN
